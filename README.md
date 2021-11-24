@@ -1,0 +1,1 @@
+# Behavioral-heuristics-and-market-patterns-in-a-Bertrand-Edgeworth-game
